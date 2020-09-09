@@ -1,19 +1,17 @@
 # laravel-chat
 
-Build a chat app with Laravel, Vue.js and Pusher. Follow the tutorial [https://pusher.com/tutorials/chat-laravel](https://pusher.com/tutorials/chat-laravel)
-
 ## Getting Started
 
 Clone the project repository by running the command below if you use SSH
 
 ```bash
-git clone git@github.com:ammezie/laravel-chat.git
+git clone git@github.com:febifidhiyanti/laravel-chat.git
 ```
 
 If you use https, use this instead
 
 ```bash
-git clone https://github.com/ammezie/laravel-chat.git
+git clone git@github.com:febifidhiyanti/laravel-chat.git
 ```
 
 After cloning,run:
@@ -23,6 +21,8 @@ composer install
 ```
 
 Duplicate `.env.example` and rename it `.env`
+or 
+'cp .env.example .env'
 
 Then run:
 
@@ -76,4 +76,4 @@ and visit [http://localhost:8000/](http://localhost:8000/) to see the applicatio
 ## Acknowledgments
 
 * [Bootsnipp chat snippet](http://bootsnipp.com/snippets/featured/collapsible-chat-widget)
-# Laravel-chat-new
+# Laravel-chat
