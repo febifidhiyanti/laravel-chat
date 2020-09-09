@@ -76,3 +76,4 @@ and visit [http://localhost:8000/](http://localhost:8000/) to see the applicatio
 ## Acknowledgments
 
 * [Bootsnipp chat snippet](http://bootsnipp.com/snippets/featured/collapsible-chat-widget)
+# Laravel-chat-new
