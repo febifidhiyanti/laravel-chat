@@ -1,6 +1,6 @@
 @extends('layouts.app')
 @section('content')
-
+ 
  
         <div class="col-md-6 pull-right ">
             <div class="panel panel-danger">
